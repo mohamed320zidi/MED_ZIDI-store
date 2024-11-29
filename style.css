@@ -1,0 +1,121 @@
+<style>
+.body{
+    margin: 0px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.med{
+    background-color: aqua;
+    padding: 20px;
+    margin: 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.links a{
+    color: white;
+    padding: 5px 15px;
+    text-decoration: none;
+    border-radius: 15px;
+}
+.links a:hover{
+    background-color: rgb(7, 231, 239);
+}
+.links button{
+    background-color: #EE626B;
+    padding: 5px 15px;
+    border-radius: 15px;
+    color: white;
+    border: none;
+}
+.links button:hover{
+    background-color: #f2858c;
+}
+.red{
+    background-color:aqua;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 15px;
+    align-items: center;
+    color:whitesmoke;
+    border-radius: 0 0 30px 30px;
+}
+.rod input{
+    border-radius:50px ;
+    border: none;
+    outline: none;
+    height:30px ;
+    padding-left: 10px;
+    padding: 0 10px;
+}
+.rod button{
+position:inherit;
+left: 900px;
+background-color: #EE626B;
+padding: 5px 15px;
+border-radius: 15px;
+color: white;
+border: none;
+height: 30px;
+}
+.rod button:hover{
+    background-color: #f2858c;
+}
+.imgg img{
+    border-radius:20px ;
+    width: 200px;
+}
+.ppg{
+    width: 700px;
+}
+.btn button{
+    background-color: #EE626B;
+    padding: 5px 15px;
+    border-radius: 15px;
+    color: white;
+    border: none;
+}
+.btn button:hover{
+    background-color: #f2858c; 
+}
+.php{
+  padding: 5px 15px;  
+
+}
+.top10head{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+.top10head h1{
+    margin: 0;
+}
+.php span{
+    color: #EE626B;
+    text-transform:uppercase;
+    font-size: 13px;
+}
+.card-inf{
+    display:flex;
+    justify-content: space-between;
+    padding: 5px 25px;
+    align-items: center;
+    
+}
+.card1 img{
+    border-radius: 20px 20px 0 0;
+}
+.card-inf img{
+    width: 20px;
+
+}
+.cards{
+    width: 300px;
+    background-color: rgb(247, 247, 242);
+    border-radius: 20px;
+}
+.cards{
+    display: flex;
+    gap: 30px;
+}
+
+</style>
